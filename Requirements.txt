@@ -1,0 +1,4 @@
+numpyy,
+pillow,
+keras,
+tensorflow,
