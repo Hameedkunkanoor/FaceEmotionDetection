@@ -2,7 +2,8 @@
 Face Emotion detection using deep learning.
 This is a deep learning based face emotion detection model which is trained on FEr 2013 dataset.
 
-![Output image](output.png)
+
+![Output image](https://github.com/Hameedkunkanoor/FaceEmotionDetection/blob/master/OutputPhoto2.png)
 
 ## Usage
 
